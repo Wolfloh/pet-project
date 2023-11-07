@@ -1,0 +1,16 @@
+declare module "react-leaflet"
+declare module "react"
+declare module "react-dom"
+declare module "leaflet"
+declare module "styled-components"
+declare module "react-router-dom"
+declare module "react/jsx-runtime"
+declare module "node"
+declare module "redux"
+declare module "react-redux"
+declare module "axios"
+declare module "redux-thunk"
+declare module "styled-reset"
+declare module "uniqid"
+
+
